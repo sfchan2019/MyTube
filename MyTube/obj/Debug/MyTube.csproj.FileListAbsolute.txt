@@ -31,3 +31,38 @@ C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week6\Day1\MyT
 C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.csprojResolveAssemblyReference.cache
 C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.dll
 C:\Users\Sing\Documents\Visual Studio 2015\Projects\Sparta Global\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\ApplicationInsights.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\csc.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\vbc.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\VBCSCompiler.exe
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\MyTube.dll.config
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\MyTube.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\MyTube.pdb
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.Web.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.Web.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.csprojAssemblyReference.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.csproj.CoreCompileInputs.cache
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.csproj.CopyComplete
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.dll
+C:\Users\Seng Fai Chan\Documents\Visual Studio Project\Engineering40\Week6\Day1\MyTube\MyTube\obj\Debug\MyTube.pdb
